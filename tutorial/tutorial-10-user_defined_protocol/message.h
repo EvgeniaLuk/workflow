@@ -56,7 +56,7 @@ public:
 	TutorialMessage(TutorialMessage&& msg);
 	TutorialMessage& operator = (TutorialMessage&& msg);
 
-	virtual ~TutorialMessage()
+	
 	
 };
 
